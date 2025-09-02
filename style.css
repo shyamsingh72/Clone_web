@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+.navbar
+{
+height: 60px;
+background-color: #0f1111;
+color: white;
+}
+.log{
+    background-image:url() ;
+}
+h1 {
+  color: darkblue;
+  text-align: center;
+}
